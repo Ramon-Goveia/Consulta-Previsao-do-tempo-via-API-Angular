@@ -1,3 +1,8 @@
+### Projeto de extensão das aulas do bootcamp full-stack developer da Digital Innovation One.
+
+Neste projeto em Angular são abordados conceitos avançados de gerenciamento de estado com NGRX, práticas e padrões de desenvolvimento, acompanhados de algumas APIs úteis que o Angular possui.
+
+#
 # JvWeather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
